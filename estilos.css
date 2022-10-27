@@ -27,3 +27,14 @@
     margin: 20px    5px     10px    5px;
     
 }
+
+.main_Section{
+    width: 80%;
+    margin:15px auto;
+}
+
+.main_Section img{
+    width: 70%;
+    align-items: stretch;
+}
+
