@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+.header{
+    width: 70%;
+    margin: 10 auto;
+    text-align: left;
+    border: 1px solid #000;
+}
+
+.header h1{
+    margin: 10px auto;
+    font-size: 30px;
+}
+
+
+.header #texto{
+    margin: 20px    5px     10px    5px;
+    
+}
