@@ -11,6 +11,11 @@
     text-align: left;
     border: 1px solid #000;
 }
+.header #sexo{
+    text-align: center;
+    margin: 20px    auto;
+    color: blueviolet   ;
+}
 
 .header h1{
     margin: 10px auto;
