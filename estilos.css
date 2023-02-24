@@ -5,51 +5,84 @@
 }
 
 
-.header{
-    width: 70%;
-    margin: 10 auto;
-    text-align: left;
-    border: 1px solid #000;
+body 
+{
+    background: #1e1f24;
+    color: #333;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
 }
 
-/* Caja de la palabra 'Sexito' */
-.header #sx{
-    background: #33a;
+.header
+{
+    background: #37488b;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     text-align: center;
     font-weight: bold;
     margin: 0.5px    auto;
     color: whitesmoke ;
-    padding: 0.4em;
+    padding: 0.4em  0   0.5em   2em;
 }
 
-.header h1{
+/* Caja de la palabra 'Sexito' logo */
+.header #sx
+{
+    
+    width: 20px;
+    vertical-align: middle;
+
+}
+
+.header #tagline
+{
+    padding: 0  0   0   1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+
+.header h1
+{
     margin: 10px auto;
     font-size: 27px;
     text-align: center;
 }
 
+#post
+{
+    background: white;
+    color: #333;
+    padding: 1em;
 
-.header #texto{
+}
+
+.header #texto
+{
     margin: 20px    5px     10px    5px;
     
 }
 
-.header p{
+.header p
+{
     font-size: 13px;
     font-family: 'Courier New', Courier, monospace;
 }
 
-.main_Section{
+.main_Section
+{
     width: 80%;
     margin:15px auto;
 }
 
-.main_Section img{
+.main_Section img
+{
     align-items: stretch;
 }
 
-.center{
+.center
+{
     display: block;
     margin-left: auto;
     margin-right: auto;
