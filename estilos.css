@@ -40,18 +40,12 @@
     font-family: 'Courier New', Courier, monospace;
 }
 
-.main_Section{
-    width: 80%;
-    margin:15px auto;
-}
-
-.main_Section img{
-    align-items: stretch;
-}
-
-.center{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%; 
+#footer
+{
+    width: 70%;
+    padding: 0.5em;
+    margin: 10 auto;
+    background: #777;
+    color: white;
+    text-align: center;
 }
